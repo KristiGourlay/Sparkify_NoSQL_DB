@@ -1,2 +1,2 @@
 # Sparkify_NoSQL_DB
-Udacity Data Engineering Nano-degrees Project2 with Apache Cassandra
+Udacity Data Engineering Nano-degrees project two with Apache Cassandra
